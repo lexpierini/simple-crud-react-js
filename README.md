@@ -4,7 +4,7 @@ Il consiste en un CRUD (création, recherche, mise à jour et destruction des do
 
 Projet de formation professionnelle et stage chez Sogi informatique limitée.
 
-Projet réalisé le 21-11-2020.
+Projet complété le 2020-11-19.
 
 
 
